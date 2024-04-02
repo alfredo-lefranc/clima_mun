@@ -1,5 +1,5 @@
 # clima_mun
-Imputación de temperatura diaria promedio por municipio en México
+Set average daily temperature to each municipality in Mexico
 
 #### Objetivo:
 Asignar una temperatura promedio diaria a cada municipio en México de acuerdo a la metodología de Davis & Gertler (2015).
